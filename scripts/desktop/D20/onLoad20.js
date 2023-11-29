@@ -1,7 +1,7 @@
 
 function fonLoad20() {
     // Put function body code here!
-    alert('form20');
+    alert('form2012');
 
     // Test
 }
